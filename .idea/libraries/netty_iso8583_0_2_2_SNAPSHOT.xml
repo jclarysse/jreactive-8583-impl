@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="netty-iso8583-0.2.2-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/netty-iso8583-0.2.2-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
